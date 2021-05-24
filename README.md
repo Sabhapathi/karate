@@ -5,7 +5,7 @@ PRE-REQUISITE install npm
 Clone https://github.com/gothinkster/angular-realworld-example-app Install by 'yarn install'
 
 run this service by 
- - 'npm start'
+ 'npm start'
 
 - FUNCTIONAL TESTS: From this karate test suite run following
 
